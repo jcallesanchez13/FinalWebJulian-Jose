@@ -18,7 +18,7 @@ function Dashboard() {
   <Link to="/categorias"><button>Administrar categorías</button></Link>
   <Link to="/analisis"><button>Ver análisis financiero</button></Link>
   <Link to="/listado"><button>Ver Historial de Transacciones</button></Link>
-  <Link to="/"><button>Volver al inicio de sesión</button></Link>
+  <Link to="/"><button>Cerrar Sesiòn</button></Link>
 </div>
     </div>
   );

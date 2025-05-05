@@ -1,4 +1,4 @@
-// src/pages/Login.jsx
+
 import React from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 
@@ -7,7 +7,6 @@ function Login() {
 
   const handleLogin = (e) => {
     e.preventDefault();
-    // Redirige directamente al Dashboard sin validar
     navigate('/dashboard');
   };
 

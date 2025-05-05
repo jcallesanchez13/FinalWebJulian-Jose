@@ -1,4 +1,4 @@
-// src/pages/AnalisisFinanciero.jsx
+
 import { Link } from 'react-router-dom';
 
 function AnalisisFinanciero() {

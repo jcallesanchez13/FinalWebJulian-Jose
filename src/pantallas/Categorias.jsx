@@ -1,4 +1,4 @@
-// src/pages/AdministrarCategorias.jsx
+
 import { Link } from 'react-router-dom';
 
 function AdministrarCategorias() {

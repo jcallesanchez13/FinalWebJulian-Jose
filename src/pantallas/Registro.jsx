@@ -1,4 +1,4 @@
-// src/pages/Register.jsx
+
 import { Link } from 'react-router-dom';
 
 function Registro() {

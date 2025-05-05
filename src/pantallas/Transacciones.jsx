@@ -1,4 +1,4 @@
-// src/pages/RegistrarTransaccion.jsx
+
 import { Link } from 'react-router-dom';
 
 function RegistrarTransaccion() {

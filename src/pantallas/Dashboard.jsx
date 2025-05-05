@@ -1,4 +1,4 @@
-// src/pages/Dashboard.jsx
+
 import { Link } from 'react-router-dom';
 
 function Dashboard() {
